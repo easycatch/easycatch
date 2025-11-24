@@ -88,8 +88,11 @@ Recibe actualizaciones al instante, colabora con clientes y socios, y cierra acu
 
 ## 🖼 Capturas de Pantalla
 
-_Aún no se han agregado capturas._  
-*Incluye imágenes del panel, buscador y tablero de tareas para mejorar la presentación.*
+### 🏠 Página de Inicio
+![Página de Inicio](https://res.cloudinary.com/dcemnnmvq/image/upload/v1763986770/Easy_Catch_Pro_Home_v3zdok.png)
+
+### 📊 Panel de Control
+![Página del Panel de Control](https://res.cloudinary.com/dcemnnmvq/image/upload/v1763986768/Easy_Catch_Pro_dashboard_npvv92.png)
 
 ---
 
