@@ -1,6 +1,6 @@
 # 🏡 Easy Catch Pro
 
-**Easy Catch Pro** es una plataforma inmobiliaria inteligente diseñada para ayudar a los agentes a descubrir propiedades, organizar listados, colaborar con clientes y cerrar acuerdos más rápido. Encuentra propiedades de múltiples sitios en un solo lugar, gestiona tareas, realiza seguimiento de oportunidades y haz crecer tu negocio inmobiliario con facilidad.
+**Easy Catch Pro** es una plataforma inmobiliaria inteligente diseñada para ayudar a los agentes a descubrir propiedades, organizar listados, colaborar con clientes y cerrar acuerdos más rápido. Centraliza listados de múltiples portales, ofrece herramientas de gestión de tareas, favoritos, notificaciones en tiempo real y funciones colaborativas para equipos inmobiliarios modernos.
 
 ---
 
@@ -98,6 +98,41 @@ Recibe actualizaciones al instante, colabora con clientes y socios, y cierra acu
 
 ## 📘 Acerca de Easy Catch Pro
 
-Easy Catch Pro ayuda a los agentes inmobiliarios a descubrir propiedades, gestionar tareas y colaborar con clientes de manera más eficiente, aumentando comisiones y reduciendo el trabajo repetitivo.
+Easy Catch Pro ayuda a los agentes inmobiliarios a descubrir propiedades, gestionar tareas y colaborar con clientes de manera más eficiente, aumentando comisiones y reduciendo el trabajo repetitivo. Su enfoque inteligente permite a los profesionales del sector centrarse en lo que realmente importa: cerrar más ventas y ofrecer un mejor servicio.
 
 ---
+
+## 🔗 Enlaces Útiles
+
+### Inicio  
+La página de **Inicio** de Easy Catch Pro ofrece una visión general clara y completa de la plataforma. Aquí los usuarios pueden descubrir cómo funciona el sistema, cuáles son sus ventajas competitivas y por qué se ha convertido en una herramienta esencial para agentes inmobiliarios que desean ahorrar tiempo y aumentar su productividad.
+
+👉 https://www.easycatch.pro/es/
+
+---
+
+### Precios  
+En la sección de **Precios**, los usuarios encuentran una comparación detallada de los distintos planes disponibles. Cada opción está diseñada para diferentes perfiles: desde agentes independientes que necesitan funcionalidades básicas hasta grandes equipos inmobiliarios que requieren herramientas avanzadas. Esta página ayuda a elegir la solución más rentable para el negocio.
+
+👉 https://www.easycatch.pro/es/precios
+
+---
+
+### Noticias  
+La página de **Noticias** recopila artículos, actualizaciones, consejos y novedades relacionadas tanto con Easy Catch Pro como con el mercado inmobiliario. Es un recurso ideal para profesionales que desean mantenerse informados sobre tendencias del sector, nuevas funcionalidades y contenido formativo relevante.
+
+👉 https://www.easycatch.pro/es/noticias
+
+---
+
+### Contacto  
+En la sección de **Contacto**, los usuarios pueden comunicarse directamente con el equipo de Easy Catch Pro para resolver dudas, solicitar soporte técnico, pedir una demostración o recibir asesoría personalizada. Este canal garantiza una atención cercana, rápida y eficiente para cualquier necesidad.
+
+👉 https://www.easycatch.pro/es/contacto
+
+---
+
+### Iniciar sesión  
+El enlace de **Iniciar sesión** da acceso directo a la plataforma Easy Catch Pro, donde los agentes gestionan propiedades, favoritos, tareas, oportunidades y colaboraciones con clientes y equipos. Es el punto de entrada al panel principal, diseñado para ofrecer una experiencia ágil y centralizada.
+
+👉 https://www.easycatch.pro/es/iniciar-sesion-en-easy-catch-pro
